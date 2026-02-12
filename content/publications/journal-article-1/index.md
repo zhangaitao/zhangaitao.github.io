@@ -6,7 +6,6 @@ authors:
 - 肖雨
 - 周旭
 - 李连捷
-author_notes:[]
 date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
