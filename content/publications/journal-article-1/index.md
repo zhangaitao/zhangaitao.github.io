@@ -13,7 +13,7 @@ date: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*河北师范大学学报(自然科学版),45*(1)"
+publication: "河北师范大学学报(自然科学版),2021,45(1)"
 abstract:利用自适应小波阈值算法抑制脑部CT图像噪声,以提高图像质量.通过仿真实验,确定自适应滤波阈值与噪声强度的关系,然后采用真实脑部CT图像及自然图像进行验证,并与常用小波阈值算法比较.提出的算法能够抑制图像的加性白噪声,使峰值信噪比提高7～10 dB,同时更好地保留了图像细节及边缘信息.小波自适应阈值算法能够对不同噪声水平的脑CT图像及自然图像进行自适应处理,提高峰值信噪比,改善图像质量.
 
 # Summary. An optional shortened abstract.
