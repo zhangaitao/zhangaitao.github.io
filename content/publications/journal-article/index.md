@@ -1,7 +1,7 @@
 ---
 title: "基于小波变换的脑部CI去噪研究"
 authors:
-- me
+- 张爱桃
 - 陈小茜
 #author_notes:
 #- "Equal contribution"
