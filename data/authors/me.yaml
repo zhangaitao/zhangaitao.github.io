@@ -16,7 +16,7 @@ role: Senior AI Research Scientist
 bio: |
   Dr.Zhang Aitao is a lecturer at the School of Medical Imaging, Hebei Medical University,
   where she teaches Medical Artificial Intelligence, MATLAB, and Medical Image Processing
-  to undergraduate students. She received his MS in Biomedical Engineering from Southern Medical University
+  to undergraduate students. She received her MS in Biomedical Engineering from Southern Medical University
   in 2011 and is currently pursuing a PhD in Biomedical Engineering at Beijing Institute of Technology.Her
   research focuses on medical signal and image processing.In teaching, she has led or participated in
   six provincial educational reform initiatives and co-authored the textbook Python Machine Learning:
@@ -64,17 +64,16 @@ experience:
     org: Hebei Medical University
     start: 2011-07-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Teaching undergraduate courses including Medical Image Processing, Medical Artificial Intelligence,and MATLAB.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: PhD Candidate in Biomedical Engineering
+    org: Beijing Institute of Technology
+    start: 2025-09-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Pursuing doctoral research focused on EEG signal processing and analysis.
 
 skills:
   - name: Technical Skills
@@ -96,14 +95,14 @@ skills:
 
 languages:
   - name: English
-    level: 6
+    level: 2
     label: Fluent
   - name: Chinese
-    level: 2
+    level: 6
     label: Native
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards: 暂时先隐藏掉，后面有成果在补充
+  #- title: Best Paper Award
+    #awarder: NeurIPS
+    #date: "2022-12-01"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
+    #icon: hero/trophy
