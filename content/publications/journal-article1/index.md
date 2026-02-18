@@ -28,13 +28,13 @@ abstract: 利用自适应小波阈值算法抑制脑部CT图像噪声,以提高�
 # Summary. An optional shortened abstract.
 summary: 提出一种小波自适应阈值算法,有效提升脑CT图像的峰值信噪比并保留细节.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+  #ids:
+    #arxiv: 1512.04133v1
 
 links:
   - type: pdf

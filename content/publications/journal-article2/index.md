@@ -31,13 +31,13 @@ abstract: 目的利用非局部均值滤波与小波相结合的算法,抑制脑
 summary: 提出一种自适应非局部均值滤波与小波相结合算法,有效提升脑CT图像的峰值信噪比并保留细节.
 
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+  #ids:
+    #arxiv: 1512.04133v1
 
 links:
   - type: pdf
