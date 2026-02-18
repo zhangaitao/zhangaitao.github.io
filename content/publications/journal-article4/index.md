@@ -5,11 +5,12 @@ authors:
 - 李佳
 - 周旭
 - 梁晶
+- 魏昊业
 - 张爱净
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2014-01-01T00:00:00Z"
+date: "2025-12-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
@@ -23,19 +24,19 @@ publication_types: ["article-journal"]
 publication: "*北京生物医学工程, 44*(6)"
 publication_short: ""
 
-abstract: 目的利用非局部平均(NL-means)算法提高高刺激率模式下去卷积前的听觉诱发电位(AEPs)的信噪比.方法首先通过仿真实验来确定在不同噪声水平下的滤波参数,然后采用真实数据进行了验证,并且与均值滤波进行了对比.结果 NL-means方法能够有效的抑制粉红噪声,较好的保留信号的细节.结论 NL-means方法非常适合具有周期特性的信号去噪,能够有效的去除噪声,提高AEPs信噪比.
+abstract: 目的 针对运动模糊图像复原中,传统频谱法存在的检测误差大,抗噪性弱及有效检测范围有限等问题,本文提出一种融合高斯拉普拉斯(Laplacian of Gaussian,LoG)滤波与Radon 变换的边缘增强频谱分析法,旨在实现点扩散函数(point spread function,PSF)参数的精准估计.方法 基于脑部MRI 仿真运动模糊模型,分析频谱中明暗条纹的分布特征,采用LoG 滤波提取频谱亮条纹边缘,抑制中心宽条纹与Gibbs 现象导致的干扰,生成保留方向特征的离散边缘点集;利用Radon 变换包容非共线点集的抗噪特性(离散边缘点沿角度θ 投影时,真实边缘贡献相干叠加,噪声点投影随机抵消),显著提升峰信噪比,进而精准定位模糊角度并计算模糊长度;采用配对t 检验,对传统中心亮条纹检测方法与本文方法的PSF参数估计误差进行统计学分析比较.结果 本研究方法的角度估计平均误差0.08°,显著低于传统方法的3.28°,长度估计平均误差0.15 像素,传统方法为0.88 像素,有效角度检测范围由传统方法的±60°扩展到0～180°,且组间误差差异均达极显著水平(P＜0.001).结论 本方法通过LoG 滤波与Radon 变换的协同机制,避免了对中心条纹完整性的依赖,解决了宽条纹导致的检测失效问题,同时有效抑制了噪声和Gibbs 现象导致的干扰,显著提高了运动模糊PSF 参数估计的精度与鲁棒性,为医学影像运动伪影消除提供可靠的技术基础.
 
 # Summary. An optional shortened abstract.
 summary: 提出一种运动模糊参数的估计方法.
 
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+#hugoblox:
+  #ids:
+    #arxiv: 1512.04133v1
 
 links:
   - type: pdf
