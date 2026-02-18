@@ -17,7 +17,7 @@ sections:
         folders:
           - projects
     design:
-      view: list   #以列表的形式显示article-grid
+      view: citation   #以列表的形式显示article-grid
       fill_image: false
       columns: 1
       show_date: false
