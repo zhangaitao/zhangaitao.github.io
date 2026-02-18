@@ -1,0 +1,11 @@
+---
+title: "河北省医学科学研究课题: 脑CT图像重建及去金属伪影的若干问题研究, 2020-2022"
+date: 2020-10-26
+#links:
+  #- type: site
+    #url: https://github.com/pandas-dev/pandas
+#tags:
+  #- Hugo
+  #- HugoBlox
+  #- Markdown
+---
