@@ -1,17 +1,16 @@
 ---
-title: "以学生为中心的医学图像处理课程设计实践教学研究"
+title: "基于希尔伯特-黄变换的AEP去噪方法"
 authors:
 - 张爱桃
-- 安东兴
-- 单春燕
-- 周旭
+- 李彬
+- 王涛
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-01-01T00:00:00Z"
+date: "2011-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2011-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,14 +18,14 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*中国教育技术装备, 45*(4)"
+publication: "*计算机工程*(19)"
 publication_short: ""
 
-abstract: 为了在医学图像处理课程实践教学过程中实现以学生为中心,提高学生的自主学习能力,提高教学水平,河北医科大学设置了分层次的课程设计的教学环节.通过对学生的期末成绩进行统计分析,表明教学质量明显提高;对学生进行调查问卷的结果表明,本课程改革得到大多数学生的肯定,能够加强学生的自主学习,创新能力.
+abstract: 在高刺激率模式下,采用去卷积方法提取暂态的听觉诱发电位存在噪声敏感的问题,为此,提出一种结合希尔伯特-黄变换(HHT)与总体相关的去噪方法.利用HHT方法提取有用信号,通过总体相关方法区分混叠在同一频率段的信号和噪声,获得相关性强的成分.实验结果表明,该方法能在不增加刺激个数的情况下,使得平均信号的信噪比提高约4倍,且不需要信号的先验知识和人为干预,便于应用.
 
 
 # Summary. An optional shortened abstract.
-summary: 设置了分层次的课程设计的教学环节,提高了教学质量.
+summary: 提出一种结合希尔伯特-黄变换(HHT)与总体相关的去噪方法,提高信号信噪比.
 
 #tags:
 #- Source Themes
