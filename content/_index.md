@@ -50,16 +50,33 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: publications
+    id: papers
     content:
-      title: Publications
-      subtitle: ''
-      text: 'A comprehensive list of my academic publications.'
+      title: Featured Publications
       filters:
         folders:
           - publications
-        count: 0
-        order: desc
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
     design:
       view: citation
+  #- block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks
+      #filters:
+        #folders:
+          #- events
+    #design:
+      #view: card      
 ---
