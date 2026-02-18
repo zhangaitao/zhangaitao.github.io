@@ -9,7 +9,3 @@ date: 2020-10-26
   #- HugoBlox
   #- Markdown
 ---
-
-#Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
-<!--more-->
