@@ -30,7 +30,7 @@ summary: 提出一种小波自适应阈值算法,有效提升脑CT图像的峰�
 
 #tags:
 #- Source Themes
-#featured: false
+featured: true  #精选文章
 
 #hugoblox:
   #ids:
