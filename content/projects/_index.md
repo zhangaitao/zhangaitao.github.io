@@ -17,10 +17,11 @@ sections:
         folders:
           - projects
     design:
-      view: article-grid
+      view: list   #以列表的形式显示article-grid
       fill_image: false
-      columns: 3
+      columns: 1
       show_date: false
       show_read_time: false
       show_read_more: false
+      show_featured_image: false  #隐藏图片
 ---
